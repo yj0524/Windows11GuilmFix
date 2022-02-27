@@ -1,0 +1,11 @@
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\bin\Release\Windows11GuilmFix.exe.config
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\bin\Release\Windows11GuilmFix.exe
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\bin\Release\Windows11GuilmFix.pdb
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\obj\Release\Windows11GuilmFix.csproj.AssemblyReference.cache
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\obj\Release\Windows11GuilmFix.csproj.SuggestedBindingRedirects.cache
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\obj\Release\Win11GulimFix.Main.resources
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\obj\Release\Windows11GuilmFix.Properties.Resources.resources
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\obj\Release\Windows11GuilmFix.csproj.GenerateResource.cache
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\obj\Release\Windows11GuilmFix.csproj.CoreCompileInputs.cache
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\obj\Release\Windows11GuilmFix.exe
+C:\Users\yj0524_kr\Downloads\Compressed\Win11GulimFix-main\Windows11GuilmFix\obj\Release\Windows11GuilmFix.pdb
